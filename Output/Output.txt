@@ -1,0 +1,37 @@
+This is Encapsulation and Polymorphism
+
+Proton Persona
+Tyre Brand: Dunlop
+Tyre Size: 28
+Windows: Up
+Headlight: On
+Proton Persona is running
+This vehicle is running
+Speed Limit: 150
+
+Proton Saga
+Tyre Brand: Dunlop
+Tyre Size: 28
+Windows: Up
+Headlight: On
+Proton Saga is running
+This vehicle is running
+Speed Limit: 160
+
+Proton X50
+Tyre Brand: Dunlop
+Tyre Size: 28
+Windows: Up
+Headlight: On
+Proton X50 is running
+This vehicle is running
+Speed Limit: 180
+
+Proton x70
+Tyre Brand: Dunlop
+Tyre Size: 28
+Windows: Up
+Headlight: On
+Proton X70 is running
+This vehicle is running
+Speed Limit: 200
